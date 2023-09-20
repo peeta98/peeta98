@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **the fundamentals of Ruby on Rails, Git and Databases**
 
-- 👨‍💻 All of my projects are available at [https://github.com/peeta98?tab=repositories](https://github.com/peeta98?tab=repositories)
+- 👨‍💻 All of my projects are available on my portfolio https://www.notion.so/Portfolio-c48331acca0c4df888a95db633d14606?pvs=4
 
 - 📫 How to reach me **pedromnmoreira98@gmail.com**
 
