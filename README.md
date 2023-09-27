@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Moreira</h1>
-<h3 align="center">A passionate backend developer from Portugal</h3>
+<h3 align="center">A passionate full stack developer from Portugal</h3>
 
-- 🌱 I’m currently learning **the fundamentals of Ruby on Rails, Git and Databases**
+- 🌱 I’m currently learning **Data Structures & Algorithms and Javascript!**
 
 - 👨‍💻 All of my projects are available on my <a href="https://www.notion.so/Portfolio-c48331acca0c4df888a95db633d14606?pvs=4" target="blank">**portfolio**</a>
 
