@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# & .NET**
 
-- 👨‍💻 All of my projects are available on my <a href="https://www.notion.so/Portfolio-c48331acca0c4df888a95db633d14606?pvs=4](https://brindle-evergreen-328.notion.site/Portfolio-c48331acca0c4df888a95db633d14606" target="blank">**portfolio**</a>
+- 👨‍💻 All of my projects are available on my <a href="https://brindle-evergreen-328.notion.site/Portfolio-c48331acca0c4df888a95db633d14606" target="blank">**portfolio**</a>
 
 - 📫 How to reach me **pedromnmoreira98@gmail.com**
 
