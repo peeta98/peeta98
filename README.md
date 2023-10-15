@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Moreira</h1>
 <h3 align="center">A passionate full stack developer from Portugal</h3>
 
-- 🌱 I’m currently learning **Data Structures && Algorithms && Javascript**
+- 🌱 I’m currently learning **C# & .NET**
 
 - 👨‍💻 All of my projects are available on my <a href="https://www.notion.so/Portfolio-c48331acca0c4df888a95db633d14606?pvs=4" target="blank">**portfolio**</a>
 
