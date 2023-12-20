@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Moreira</h1>
 <h3 align="center">A passionate full stack developer from Portugal</h3>
 
-- 🌱 I’m currently learning **REACT & Node.JS**
+- 🌱 I’m currently learning **TypeScript and React**
 
 - 👨‍💻 All of my projects are available on my <a href="https://brindle-evergreen-328.notion.site/Portfolio-c48331acca0c4df888a95db633d14606" target="blank">**portfolio**</a>
 
