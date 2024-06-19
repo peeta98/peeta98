@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pedro Moreira</h1>
-<h3 align="center">A passionate back-end developer from Portugal</h3>
+<h3 align="center">A passionate junior back-end developer from Portugal</h3>
 
-- 🌱 I’m currently learning **TypeScript and Design Patterns**
+- 🌱 I’m currently learning **Golang, Docker & Kubernetes **
 
 - 👨‍💻 All of my projects are available on my <a href="https://brindle-evergreen-328.notion.site/Portfolio-c48331acca0c4df888a95db633d14606" target="blank">**portfolio**</a>
 
-- 📫 How to reach me **pedromnmoreira98@gmail.com**
+- 📫 How to reach me: **pedromnmoreira98@gmail.com**
 
-- ⚡ Fun fact **I have a very weird sense of humor, don't ask me why**
+- ⚡ Fun fact: **I intend to pursue a BSc degree in Computer Engineering next year (2025)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
