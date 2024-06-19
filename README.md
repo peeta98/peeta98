@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **pedromnmoreira98@gmail.com**
 
-- ⚡ Fun fact: **I intend to pursue a BSc degree in Computer Engineering next year (2025)**
+- ⚡ Fun fact: **I intend to pursue a BSc degree in Computer Engineering next year ➡️ 2025**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
