@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Moreira</h1>
-<h3 align="center">A passionate junior back-end developer from Portugal</h3>
+<h3 align="center">A passionate Junior Backend Developer from Portugal</h3>
 
 - 🌱 I’m currently learning **Golang, Docker & Kubernetes**
 
