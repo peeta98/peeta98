@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Golang, Docker & Kubernetes**
 
-- 👨‍💻 All of my projects are available on my <a href="https://brindle-evergreen-328.notion.site/Portfolio-c48331acca0c4df888a95db633d14606" target="blank">**portfolio**</a>
-
 - 📫 How to reach me: **pedromnmoreira98@gmail.com**
 
 - ⚡ Fun fact: **I intend to pursue a BSc degree in Computer Engineering next year ➡️ 2025**
