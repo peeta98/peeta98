@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Moreira</h1>
 <h3 align="center">A passionate Junior Backend Developer from Portugal</h3>
 
-- 🌱 I’m currently learning **Golang, Docker & Kubernetes**
+- 🌱 I’m currently learning **Github Actions**
 
 - 📫 How to reach me: **pedromnmoreira98@gmail.com**
 
