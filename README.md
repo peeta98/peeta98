@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Moreira</h1>
-<h3 align="center">A passionate Junior Software Engineer from Portugal</h3>
+<h3 align="center">A passionate Software Engineer from Portugal</h3>
 
-- 🌱 I’m currently learning backend fundamentals at [**boot.dev**](https://www.boot.dev/tracks/backend)
+- 🌱 I’m currently taking a BSc degree in Computer Engineering at [**UAb**](https://portal.uab.pt/)
 
 - 📫 How to reach me: **pedromnmoreira98@gmail.com**
-
-- ⚡ Fun fact: **I will begin a BSc degree in Computer Engineering, starting 2025**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
